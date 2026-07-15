@@ -17,8 +17,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0002-add-two-numbers) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0002-add-two-numbers) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
