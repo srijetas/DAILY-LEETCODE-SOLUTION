@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0005-longest-palindromic-substring) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -50,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0004-median-of-two-sorted-arrays) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
