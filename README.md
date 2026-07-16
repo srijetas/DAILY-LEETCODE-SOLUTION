@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0004-median-of-two-sorted-arrays) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -41,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
