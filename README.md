@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0004-median-of-two-sorted-arrays) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0002-add-two-numbers) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
