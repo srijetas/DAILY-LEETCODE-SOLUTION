@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0012-integer-to-roman) |
 | [3312-sorted-gcd-pair-queries](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/3312-sorted-gcd-pair-queries) |
 ## Linked List
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0012-integer-to-roman) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0012-integer-to-roman) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/3501-maximize-active-section-with-trade-ii) |
