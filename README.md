@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0014-longest-common-prefix) |
 | [1260-shift-2d-grid](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/3312-sorted-gcd-pair-queries) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0014-longest-common-prefix) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -138,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/3312-sorted-gcd-pair-queries) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
