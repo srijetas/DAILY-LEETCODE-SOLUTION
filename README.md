@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Stack
 |  |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -243,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/2029-stone-game-ix) |
 ## Depth-First Search
 |  |
@@ -270,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Nim Game
 |  |
 | ------- |
+| [1510-stone-game-iv](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/2029-stone-game-ix) |
 ## Heap (Priority Queue)
 |  |
@@ -279,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0020-valid-parentheses) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
