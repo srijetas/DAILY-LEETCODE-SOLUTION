@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0018-4sum) |
+| [0486-predict-the-winner](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/1260-shift-2d-grid) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0013-roman-to-integer) |
+| [0486-predict-the-winner](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/1406-stone-game-iii) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0021-merge-two-sorted-lists) |
+| [0486-predict-the-winner](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0486-predict-the-winner) |
 ## Number Theory
 |  |
 | ------- |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0010-regular-expression-matching) |
+| [0486-predict-the-winner](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/1406-stone-game-iii) |
 ## Stack
@@ -208,17 +212,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/1406-stone-game-iii) |
 | [2029-stone-game-ix](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/1406-stone-game-iii) |
 | [2029-stone-game-ix](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/1406-stone-game-iii) |
 | [2029-stone-game-ix](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/2029-stone-game-ix) |
 ## Depth-First Search
