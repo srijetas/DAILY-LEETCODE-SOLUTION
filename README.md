@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/3312-sorted-gcd-pair-queries) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0011-container-with-most-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2029-stone-game-ix](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -193,14 +197,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/2029-stone-game-ix) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -222,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
