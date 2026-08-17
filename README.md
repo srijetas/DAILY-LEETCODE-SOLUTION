@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0023-merge-k-sorted-lists) |
 ## Math
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0023-merge-k-sorted-lists) |
 ## String
 |  |
 | ------- |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0023-merge-k-sorted-lists) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bracket Sequences
 |  |
@@ -307,4 +310,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
