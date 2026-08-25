@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0036-valid-sudoku) |
 | [0486-predict-the-winner](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0877-stone-game) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0036-valid-sudoku) |
 | [1386-cinema-seat-allocation](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0036-valid-sudoku) |
 | [1260-shift-2d-grid](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/1260-shift-2d-grid) |
 ## Enumeration
 |  |
