@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0051-n-queens) |
+| [0301-remove-invalid-parentheses](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sliding Window
