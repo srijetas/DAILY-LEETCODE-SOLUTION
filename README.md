@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0051-n-queens) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0835-image-overlap) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0050-powx-n) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0877-stone-game) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0049-group-anagrams) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/0628-maximum-product-of-three-numbers) |
 | [1096-brace-expansion-ii](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/1096-brace-expansion-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/srijetas/DAILY-LEETCODE-SOLUTION/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
